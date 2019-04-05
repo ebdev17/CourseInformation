@@ -67,10 +67,9 @@ The second part will be focused on a final group project.
 * Assignments will be given with plenty of time to complete
 * I will allow time in class to work
 * They will require time outside of class especially as they increase in scope and difficulty
-* Late assignments will be given a 10%
-*penalty
-* Anything turned in over a week late will be given a 50%
-*penalty
+* Late assignments will be incur a 10% penalty
+* Anything turned in over a week late will be incur a 50% penalty
+* If you are struggling to keep up talk to me ASAP. Don't wait until after assignments are due.
 * You will use git to turn your code
 * If you don't know git, don't panic! We will discuss how to use git in class and I will show you what you need know
 
@@ -92,7 +91,7 @@ arrange to provide course materials (including this syllabus) in alternative for
 
 ## Grading ##
 
-    A = 93 > 100%
+    A = 93 - 100%
     A- = 90 - 92.9%
     B = 83 – 86.9%
     B+ = 87 – 89.9%
@@ -114,7 +113,7 @@ needed.
 
 | Week | Days                    | Chapter                                              |
 | ---- | ----------------------- | :--------------------------------------------------- |
-| 1    | May 6th, 8th            | Course Introduction and Git                          |
+| 1    | May 6th, 8th            | Course Introduction and Git, Install Software        |
 | 2    | May 13th, 15th          | Visual Studio, Intro to C#, Classes / Objects        |
 | 3    | May 20th, 22nd          | Methods and Control Structures                       |
 | 4    | May 27th NO CLASS, 29th | GUI with WPF, Arrays, Strings, Generics, Collections |
