@@ -19,15 +19,26 @@
 My name is Ethan Brown. I'm a Weber State Alumni and a Site Reliability Engineer at Adobe.
 I consider myself more of a python developer than C# but I enjoy working with it.
 
-| My Contact  |                            |
-| ----------- | -------------------------: |
-| Phone       | 801-232-4314               |
-| Email       | ethanbrown3@mail.weber.edu |
+| My Contact Info |                            |
+| --------------- | -------------------------- |
+| Phone           | 801-232-4314               |
+| Email           | ethanbrown3@mail.weber.edu |
+
+## Course Objectives ##
+
+This is the official course description.
+
+> This course is intended to teach students how to write Windows programs in C# using the .NET environment. The student will learn how to develop programs based on Windows Applications and the .NET Framework. They will also be introduced to APIs and MFC/AFX styles of Windows programming and to become familiar with various data sharing methods and .NET services.
+
+My goal of this course will be for you to become better ENGINEERS. Not just a regurgitator of
+facts and code snippets. I will be going over information about .NET so that you can pass your
+Bachelor Assessment but for the most part I want this class to be about doing and less about note
+taking.
 
 ## Book ##
 
 The book is optional but it might be a useful reference. I will be using it to prepare
-class lectures.
+classroom lectures.
 
 * Visual C# How to Program (6th Edition)
 
@@ -96,3 +107,24 @@ arrange to provide course materials (including this syllabus) in alternative for
 
 ## Schedule ##
 
+The Schedule is a **ROUGH** outline of what we will cover. I reserve the right to adjust for
+the class needs. My goal would be to finish up the topics earlier to allow more time for
+the final project. I will be your guide through this and we will speed up and slow down as
+needed.
+
+| Week | Days                    | Chapter                                              |
+| ---- | ----------------------- | :--------------------------------------------------- |
+| 1    | May 6th, 8th            | Course Introduction and Git                          |
+| 2    | May 13th, 15th          | Visual Studio, Intro to C#, Classes / Objects        |
+| 3    | May 20th, 22nd          | Methods and Control Structures                       |
+| 4    | May 27th NO CLASS, 29th | GUI with WPF, Arrays, Strings, Generics, Collections |
+| 5    | Jun 3rd, 5th            | Classes / Objects and Inheritance / Polymorphism     |
+| 6    | Jun 10th, 12th          | Midterm Review and Midterm                           |
+| 7    | Jun 17th, 19th          | Exception Handling and GUI Concepts                  |
+| 8    | Jun 24th, 26th          | GUI Concepts and XML                                 |
+| 9    | Jul 1st, 3rd            | Databases, Multithreading                            |
+| 10   | Jul 8th, 10th           | Files and Streams, Syntatic Sugar, LINQ              |
+| 11   | Jul 15th, 17th          | Lambdas, Anonymous Methods, Advanced WPF             |
+| 12   | Jul 22nd, 24th NO CLASS | LAB TIME                                             |
+| 13   | Jul 29th, 31st          | LAB TIME                                             |
+| 14   | Aug 5th, 7th            | FINAL Review, FINAL, FINAL PROJECT DUE ON THE 8th    |
